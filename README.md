@@ -1,6 +1,6 @@
 # pRPG (pirateRPG)
 
-pRPG is a fork of cRPG with most of the balance changes that bring the game away from Native removed, and balance changed to favor 4d melee as the meta. This mod will appl
+pRPG is a fork of cRPG with most of the balance changes that bring the game away from Native removed, and balance changed to favor 4d melee as the meta.
 
 ## License
 
